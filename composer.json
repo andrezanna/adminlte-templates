@@ -19,8 +19,8 @@
     ],
     "require": {
         "php": "^8.1",
-        "illuminate/support": "^9.0",
-        "illuminate/view": "^9.0",
+        "illuminate/support": "^9.0|^10.0",
+        "illuminate/view": "^9.0|^10.0",
         "andrezanna/laravel-ui-adminlte": "*"
     },
     "autoload": {
